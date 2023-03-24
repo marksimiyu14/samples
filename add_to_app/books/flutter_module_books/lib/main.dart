@@ -111,7 +111,7 @@ class _BookDetailState extends State<BookDetail> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Book Details'),
+        title: const Text('Flutter Application'),
         leading: IconButton(
           icon: const Icon(Icons.clear),
           // Pressing clear cancels the edit and leaves the activity without
